@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  textarea {
+    height: 100px;
+    margin-bottom: 10px;
+  }
+  
